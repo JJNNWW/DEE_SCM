@@ -1,6 +1,3 @@
----
-description: Smart Contract
----
 
 # DEE Hackathon
 
